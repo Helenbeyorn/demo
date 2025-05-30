@@ -1,4 +1,4 @@
 # demo
 this is my first git repository
 <br>
-i am the author
+i am the author(Helen Treesa)
